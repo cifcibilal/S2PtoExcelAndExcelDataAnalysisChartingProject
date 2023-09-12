@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ChartProcessor.cs" />
+    <Compile Include="DataFilter.cs" />
     <Compile Include="ExcelManager.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>

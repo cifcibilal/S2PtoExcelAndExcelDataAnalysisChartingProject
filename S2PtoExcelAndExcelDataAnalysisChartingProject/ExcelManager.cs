@@ -18,6 +18,10 @@ namespace S2PtoExcelAndExcelDataAnalysisChartingProject
         OpenFileDialog openFileDialog;
         private string dosyaAd;
         private Chart chart;
+        public ExcelManager()
+        {
+            
+        }
         public ExcelManager(Chart chart)
         {
 
